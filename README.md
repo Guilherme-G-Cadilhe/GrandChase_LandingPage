@@ -1,9 +1,12 @@
 <h1 align="Center">Grand Chase - Heroes Return</h1>
 
 ---
+
 <p align="center">
-<img width="700" src="https://i.imgur.com/27TpJr6.png">
+  <img src="https://media.giphy.com/media/vUtVuMbYpWR0oLUBRH/giphy.gif"> 
 </p>
+
+
 
 ---
 
@@ -22,7 +25,8 @@
    * O que Aprendi? / What have i learned?
    * Autor / Author
 <!--te-->
-
+<br>
+<br>
 <details>
   <summary> <b> Want to see the Page in English? </b> <i>(Click here to Expand it!)</i> </summary>
   <br>
