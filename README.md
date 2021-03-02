@@ -32,7 +32,7 @@
   <br>
   
   <h1 align="center" >
-<a href="https://grand-chase-bobnini.netlify.app/">Site Link With Deploy on Netlify</a>
+<a href="https://grand-chase-bobnini.netlify.app/">Website Page With Deploy on Netlify</a>
 </h1>
 
 <h2 align="center">About</h2>
