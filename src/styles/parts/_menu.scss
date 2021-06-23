@@ -28,7 +28,7 @@ header {
     margin-left: 24px;
   }
 
-  @include mobile() {
+  @include responsive-medium() {
     display: none;
   }
 }
@@ -90,7 +90,7 @@ span {
   border-radius: 8px;
   display: none;
 
-  @include mobile() {
+  @include responsive-medium() {
     display: block;
   }
 
@@ -105,7 +105,7 @@ span {
     border-radius: 8px;
     display: none;
 
-    @include mobile() {
+    @include responsive-medium() {
       display: block;
     }
   }
@@ -136,7 +136,7 @@ span {
     }
   }
 
-  @include mobile() {
+  @include responsive-medium() {
     display: none;
   }
 }

@@ -2,7 +2,7 @@
 .container {
   max-width: 1440px;
   margin: 0 auto;
-  padding: 36px 16px;
+  padding: 0 5rem 2rem;
 
   display: flex;
   flex-direction: row;
@@ -13,8 +13,10 @@
 
   height: 85vh;
 
-  @include mobile() {
+  @include responsive-medium() {
+    padding: 1rem 3rem;
     flex-direction: column;
+
     height: auto;
     overflow: hidden;
   }
@@ -27,6 +29,27 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+
+  @include responsive-medium() {
+    align-items: center;
+  }
+
+  .px-1 {
+    width: 25rem;
+
+    @include responsive-small() {
+      width: 15rem;
+    }
+  }
+
+  .item-3 {
+    display: flex;
+
+    @include responsive-small() {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
 }
 /// Mini Classes
 .flex {
@@ -42,12 +65,11 @@
 
 // IMAGEM DO JIN
 .jin {
-  width: 95%;
-  transform: translate3d(40px, -30px, 30px);
+  width: 90%;
+  transform: translate3d(80px, -30px, 30px);
 
-  @include mobile() {
-    width: 100%;
-    transform: translate3d(0, 0, 0);
+  @include responsive-medium() {
+    display: none;
   }
 }
 
@@ -182,7 +204,9 @@
     );
   }
 }
+
 .video {
+  object-fit: cover;
   width: 100vw;
   height: 100vh;
   min-height: 100%;
