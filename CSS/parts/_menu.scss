@@ -12,25 +12,20 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
-  
 }
 
 .nav_menu {
   display: flex;
-  justify-content:flex-start;
+  justify-content: flex-start;
   align-items: center;
-
-
 }
 
 .nav_list {
   list-style: none;
   display: flex;
 
-  
   li {
-    margin-left:24px;
+    margin-left: 24px;
   }
 
   @include mobile() {
@@ -51,20 +46,20 @@ span {
 .nav_link {
   display: inline-block;
 
-  font-size:15px;
+  font-size: 15px;
   letter-spacing: 2px;
-  text-transform:uppercase;
+  text-transform: uppercase;
   font-weight: 200;
 
   color: $gray-3;
 
-  padding:8px 16px;
+  padding: 8px 16px;
   transition: 0.6s ease;
 
   position: relative;
 
   &::after {
-    content:'';
+    content: '';
     display: block;
     position: absolute;
 
@@ -73,55 +68,51 @@ span {
 
     transition: 0.6s ease;
 
-    width:0px;
+    width: 0px;
     height: 2px;
     background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
-
   }
 
   &:hover {
-
     color: $white-light;
 
     &::after {
-      width:66px;
-
-  
+      width: 66px;
     }
   }
 }
 
 .bx {
-  position: relative;;
-  width:48px;
+  position: relative;
+  width: 48px;
   height: 8px;
-  background-color: #efa400;;
-  border-radius:8px;
-  display:none;
+  background-color: #efa400;
+  border-radius: 8px;
+  display: none;
 
   @include mobile() {
-    display:block;
+    display: block;
   }
 
- &::after {
-  content: "";
-  position: absolute;
-  top: 18px;
-  left: 0px;
-  width:48px;
-  height: 8px;
-  background-color: $red;
-  border-radius:8px;
-  display:none;
-  
-  @include mobile() {
-    display:block;
+  &::after {
+    content: '';
+    position: absolute;
+    top: 18px;
+    left: 0px;
+    width: 48px;
+    height: 8px;
+    background-color: $red;
+    border-radius: 8px;
+    display: none;
+
+    @include mobile() {
+      display: block;
+    }
   }
- }
 }
 
 .nav_social {
-  display:flex;
+  display: flex;
 
   z-index: 3;
 
@@ -129,16 +120,18 @@ span {
     cursor: pointer;
 
     margin-left: 16px;
-    width:24px;
+    width: 24px;
 
-    path,circle {
+    path,
+    circle {
       transition: 0.7s ease;
     }
 
     &:hover {
-      path,circle {
+      path,
+      circle {
         fill: #efa400;
-        transform: translate3d(0,-4px,0);
+        transform: translate3d(0, -4px, 0);
       }
     }
   }
