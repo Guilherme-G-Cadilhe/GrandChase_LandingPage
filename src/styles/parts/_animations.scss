@@ -1,0 +1,12 @@
+.logo-jin {
+  animation: mover 1.5s ease infinite alternate;
+}
+
+@keyframes mover {
+  0% {
+    transform: translate(+0%, +0%) scale(1);
+  }
+  100% {
+    transform: translate(+3%, +3%) scale(1.07);
+  }
+}
