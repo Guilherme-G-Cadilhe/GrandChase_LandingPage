@@ -32,10 +32,10 @@
   <br>
   
   <h1 align="center" >
-<a href="https://grand-chase-bobnini.netlify.app/">Website Page With Deploy on Netlify</a>
+<a href="https://grand-chase-bobnini.netlify.app/">🚀 Website Page With Deploy on Netlify</a>
 </h1>
 
-<h2 align="center">About</h2>
+<h2 align="center">📌 About</h2>
 
 Character Landing Page Project, developed and inspired by the **FrontWeek** Project by **Násser Yousef Ali**. <br>
 Using as a base and inspiration, **Grand Chase** instead of Spiderman as in the Original project.
@@ -46,7 +46,7 @@ Using as a base and inspiration, **Grand Chase** instead of Spiderman as in the 
 Select your party, unlock the **Heroes** and fight **Bossfights** using your **Skills and Combos** in the long awaited **Return of Grand Chase**.
 
 
-<h2 align="center">Features</h2>
+<h2 align="center">⚙️ Features</h2>
 
 ### [Tilt.JS](https://gijsroge.github.io/tilt.js/)
 
@@ -76,7 +76,7 @@ Select your party, unlock the **Heroes** and fight **Bossfights** using your **S
 Represented by **Best Character**, **JIN**, as the **Protagonist** (If you dont think so, you are a Hater, Just kidding!).
 
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">💻 Technologies</h2>
 
 In this project it was utilized **HTML, CSS, SASS, JAVASCRIPT, JQUERY FIGMA**<br>
 **HTML** - The **Skeleton** of the Page.<br>
@@ -84,12 +84,54 @@ In this project it was utilized **HTML, CSS, SASS, JAVASCRIPT, JQUERY FIGMA**<br
 **JAVASCRIPT e JQUERY** - Used to perform page **Functions** and manage the **Libraries** used in the Project.
 **FIGMA** - Used to set up **UI Design** and to produce and convert the **SVGs** used on the Page.
 
-<h2 align="center">What have i learned?</h2>
+  
+<h2 align="center"> 📦 Installing and Contributing</h2>
+  
+To get started, fork the repository and then run the following commands:
+
+1. Install NPM packages
+   ```sh
+   npm install
+   ```
+  Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+  </br></br>
+✏️ To contribute, do the following:
+1. Fork the Project
+2. Create your Feature Branch.
+3. Commit your Changes.
+4. Push to the Branch.
+5. Open a Pull Request
+  
+  
+<h2 align="center">☕ What have i learned?</h2>
 
 >This was a few days project, and it was my first presentation and contact with the **JS Libraries**, besides helping me to practice my SCSS, I learned many new tricks and understood a lot of new things about **Creation and Prototyping of a UI/UX for WebSite using Figma**, and it's something that I really liked, solidifying my desire to learn UX/UI Design. <br>
 I lost my fear that thought it would be difficult and complicated to use these Libraries and put them in my Projects, but besides it being easy, it is simple.
 I want to thank Teacher **Násser Yousef Ali** for having made a Project so simple and so fun, with ease to learn these **Concepts and Uses of Animations** to turn a website into something so captivating, it is fascinating how with simple pieces, together turn into something so **Incredible**.
+  
+## 📝 License
 
+Distributed under the **MIT** License.
+
+## 🤝 Contributors
+
+
+Thanks to the following people who contributed to this project in some way:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JoakimTeixeira">
+        <img src="https://avatars.githubusercontent.com/u/12193814?v=4" width="100px;" alt="Foto do Joakim Teixeira no GitHub"/><br>
+        <sub>
+          <b>Joakim Teixeira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+  
 <h2>Author</h2>
 
 Made with 💜 and dedication by me **Guilherme G Cadilhe** Aka: **Bobnini**. <br>
@@ -98,10 +140,10 @@ Made with 💜 and dedication by me **Guilherme G Cadilhe** Aka: **Bobnini**. <b
 <br>
 
 <h1 align="center" >
-<a href="https://grand-chase-bobnini.netlify.app/">Link do site com Deploy no Netlify</a>
+<a href="https://grand-chase-bobnini.netlify.app/">🚀 Link do site com Deploy no Netlify</a>
 </h1>
 
-<h2 align="center">Sobre</h2>
+<h2 align="center">📌 Sobre</h2>
 
 Projeto de Landing Page de Personagem, desenvolvido e inspirado no Projeto **FrontWeek** de **Násser Yousef Ali**.<br>
 Utilizando como base e inspiração, **Grand Chase** em vez de Spiderman como no projeto Original.
@@ -111,7 +153,7 @@ Utilizando como base e inspiração, **Grand Chase** em vez de Spiderman como no
 **Grand Chase** está de volta, no mundo de **Kathas**, após uma tempestade dimensional, o grupo precisa se encontrar novamente nesse **Novo Mundo**, quais perigos os aguardam?<br>
 Monte seu grupo, desbloqueie os **Heróis** e lute contra **Chefões** utilizando suas **Habilidades e Combos** no aguardado **Retorno de Grand Chase**.
 
-<h2 align="center">Features</h2>
+<h2 align="center">⚙️ Features</h2>
 
 ### [Tilt.JS](https://gijsroge.github.io/tilt.js/)
 
@@ -141,7 +183,7 @@ Monte seu grupo, desbloqueie os **Heróis** e lute contra **Chefões** utilizand
 Representado pelo **Melhor Personagem**, **JIN**, como **Protagonista**( Quem falar o contrario é Hater, Brincadeira! ).
 
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">💻 Tecnologias</h2>
 
 Nesse projeto foi utilizado **HTML, CSS, SASS, JAVASCRIPT, JQUERY FIGMA**<br>
 **HTML** - Utilizado para fazer o **Esqueleto** da página.<br>
@@ -149,12 +191,48 @@ Nesse projeto foi utilizado **HTML, CSS, SASS, JAVASCRIPT, JQUERY FIGMA**<br>
 **JAVASCRIPT e JQUERY** - Utilizado para fazer as **Funções** da página e gerenciar as **Bibliotecas** usadas no Projeto.
 **FIGMA** - Utilizado para montar o **UI Design** e para produzir e converter os **SVG's** utilizados na Página.
 
-<h2 align="center">O que Aprendi?</h2>
+<h2 align="center"> 📦 Instalação e Contribuição</h2>
+
+Para começar, faça um fork deste repositorio e rode o seguinte comando:
+
+1. Install NPM packages
+   ```sh
+   npm install
+   ```
+Para contribuir, siga estas etapas:
+1. Bifurque este repositório.
+2. Crie um branch.
+3. Faça suas alterações e confirme-as.
+4. Envie para o branch original.
+5. Crie a solicitação de pull.
+
+<h2 align="center">☕ O que Aprendi?</h2>
 
 > Esse foi um projeto de alguns dias, e foi minha primeira apresentação e contato com as **Bibliotecas de JS**, além de me ajudar a praticar meu SCSS, aprendi muitos truques novos e entendi muita coisa nova sobre a **Criação e Prototipação de um UI/UX de Site pelo Figma**, e é algo que eu gostei muito, solidificando minha vontade de aprender UX/UI Design.<br>
 Perdi meu medo que pensava que seria difícil e complicado utilizar essas Bibliotecas e coloca-las nos meus Projetos, mas além de fácil é simples.<br>
 Quero agradecer ao Professor **Násser Yousef Ali** por ter feito um Projeto tão simples e tão divertido, com facilidade para aprender esses **Conceitos e Utilizações de Animações** para tornar um site em algo tão cativante, chega a ser fascinante como pedaço simples, juntos se transformaram em algo tão **Incrível**.
 
+
+## 📝 Licença
+
+Esse projeto está sob licença **MIT**.
+
+## 🤝 Contribuidores
+
+Agradeço às seguintes pessoas que contribuíram para este projeto em alguma forma:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JoakimTeixeira">
+        <img src="https://avatars.githubusercontent.com/u/12193814?v=4" width="100px;" alt="Foto do Joakim Teixeira no GitHub"/><br>
+        <sub>
+          <b>Joakim Teixeira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2>Autor</h2>
 
